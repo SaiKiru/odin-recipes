@@ -16,11 +16,23 @@ body {
     }
 }
 
+#header {
+    margin-bottom: 24px;
+}
+
+#recipe-name {
+    margin-bottom: 0.4em;
+}
+
+#recipe-maker a {
+    font-weight: bold;
+}
+
 .section {
     padding-bottom: 4px;
 }
 
-#header-img img {
+#recipe-img img {
     display: block;
     width: 480px;
     height: auto;
