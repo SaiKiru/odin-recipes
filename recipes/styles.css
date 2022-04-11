@@ -1,12 +1,12 @@
 body {
-    width: 70%;
+    width: 60%;
     margin: auto;
     padding: 16px;
 }
 
 @media screen and (max-width: 860px) {
     body {
-        width: 85%;
+        width: 80%;
     }
 }
 
