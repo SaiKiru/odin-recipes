@@ -12,7 +12,7 @@ body {
 
 @media screen and (max-width: 640px) {
     body {
-        width: 100%;
+        width: auto;
     }
 }
 
