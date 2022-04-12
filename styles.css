@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Lato&display=swap');
 
 :root {
+    --text-red: #f85e42;
+    --text-black: #303030;
+
+    color: var(--text-black);
     font-size: 18px;
     font-family: 'Lato', sans-serif;
 }

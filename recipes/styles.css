@@ -29,6 +29,8 @@ body {
 
 #recipe-maker a {
     font-weight: bold;
+    color: var(--text-black);
+    text-decoration: underline 3px var(--text-red);
 }
 
 .section {
