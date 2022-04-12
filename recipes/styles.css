@@ -1,8 +1,14 @@
+html {
+    background-image: linear-gradient(var(--bg-orange), var(--bg-red));
+    background-attachment: fixed;
+}
+
 body {
     box-sizing: border-box;
     width: 60%;
     margin: auto;
     padding: 16px 48px;
+    background-color: white;
 }
 
 @media screen and (max-width: 860px) {

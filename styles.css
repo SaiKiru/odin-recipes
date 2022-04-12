@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Lato&display=swap');
 
 :root {
+    --bg-red: #fa5757;
+    --bg-orange: #f79f65;
     --text-red: #f85e42;
     --text-black: #303030;
 
